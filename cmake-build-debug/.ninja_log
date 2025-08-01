@@ -1,0 +1,9 @@
+# ninja log v6
+20	954	7757778807276305	CMakeFiles/langton.dir/graphics.cpp.obj	b3ca2672ac926b03
+30	1064	7757778807371553	CMakeFiles/langton.dir/Soldier.cpp.obj	dabe347341c31571
+25	1089	7757778807321364	CMakeFiles/langton.dir/Breeder.cpp.obj	d37dd3b2510449aa
+11	1140	7757778807181037	CMakeFiles/langton.dir/Ant.cpp.obj	b050b2be9ac261
+15	1189	7757778807226222	CMakeFiles/langton.dir/Queen.cpp.obj	6eb1cb6cb73b8608
+35	1221	7757778807426643	CMakeFiles/langton.dir/events.cpp.obj	d5946d91a656a4b5
+6	1590	7757778807130959	CMakeFiles/langton.dir/main.cpp.obj	9b8bb47784a95cc2
+1591	2357	7757778822982580	langton.exe	120ed46e03532e92
