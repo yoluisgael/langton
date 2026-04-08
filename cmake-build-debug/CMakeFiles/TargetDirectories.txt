@@ -1,3 +1,0 @@
-C:/Users/yolui/My Drive/Programacion/Langton/cmake-build-debug/CMakeFiles/langton.dir
-C:/Users/yolui/My Drive/Programacion/Langton/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/yolui/My Drive/Programacion/Langton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
